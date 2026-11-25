@@ -1,4 +1,4 @@
-/* Auditorium Hall Booking - Phase 1
+/* Auditorium Hall Booking Sharoon - Phase 1
    1. Book hall: organiser name, event name, date, time slot (1-4)
    2. View all bookings
    3. Check a date and slot: show Free or Booked
